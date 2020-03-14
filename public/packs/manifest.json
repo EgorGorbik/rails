@@ -1,0 +1,154 @@
+{
+  "App.js": "/packs/js/App-03cde8dfbf7d760c36c1.js",
+  "App.js.map": "/packs/js/App-03cde8dfbf7d760c36c1.js.map",
+  "Components/Comment/index.js": "/packs/js/Components/Comment/index-814a89986cc8b072efb9.js",
+  "Components/Comment/index.js.map": "/packs/js/Components/Comment/index-814a89986cc8b072efb9.js.map",
+  "Components/Comment/style.js": "/packs/js/Components/Comment/style-fbe19a11ab5860eba5ac.js",
+  "Components/Comment/style.js.map": "/packs/js/Components/Comment/style-fbe19a11ab5860eba5ac.js.map",
+  "Components/CommentInput/index.js": "/packs/js/Components/CommentInput/index-bb036b5066724f308a83.js",
+  "Components/CommentInput/index.js.map": "/packs/js/Components/CommentInput/index-bb036b5066724f308a83.js.map",
+  "Components/CommentInput/style.js": "/packs/js/Components/CommentInput/style-4e63f221a04aea75d9cc.js",
+  "Components/CommentInput/style.js.map": "/packs/js/Components/CommentInput/style-4e63f221a04aea75d9cc.js.map",
+  "Components/Comments/index.js": "/packs/js/Components/Comments/index-b957f3e7e792251ccd71.js",
+  "Components/Comments/index.js.map": "/packs/js/Components/Comments/index-b957f3e7e792251ccd71.js.map",
+  "Components/Comments/style.js": "/packs/js/Components/Comments/style-c6d5c168a4dae4cab16c.js",
+  "Components/Comments/style.js.map": "/packs/js/Components/Comments/style-c6d5c168a4dae4cab16c.js.map",
+  "Components/Video/AvatarTimeline.js": "/packs/js/Components/Video/AvatarTimeline-afcb6dc7919cfb3eb5bf.js",
+  "Components/Video/AvatarTimeline.js.map": "/packs/js/Components/Video/AvatarTimeline-afcb6dc7919cfb3eb5bf.js.map",
+  "Components/Video/index.js": "/packs/js/Components/Video/index-532888de02de573f6010.js",
+  "Components/Video/index.js.map": "/packs/js/Components/Video/index-532888de02de573f6010.js.map",
+  "Components/Video/style.js": "/packs/js/Components/Video/style-ebb23372d1a7368e2f68.js",
+  "Components/Video/style.js.map": "/packs/js/Components/Video/style-ebb23372d1a7368e2f68.js.map",
+  "application.js": "/packs/js/application-17f5312824b8a24c4190.js",
+  "application.js.map": "/packs/js/application-17f5312824b8a24c4190.js.map",
+  "entrypoints": {
+    "App": {
+      "js": [
+        "/packs/js/App-03cde8dfbf7d760c36c1.js"
+      ],
+      "js.map": [
+        "/packs/js/App-03cde8dfbf7d760c36c1.js.map"
+      ]
+    },
+    "application": {
+      "js": [
+        "/packs/js/application-17f5312824b8a24c4190.js"
+      ],
+      "js.map": [
+        "/packs/js/application-17f5312824b8a24c4190.js.map"
+      ]
+    },
+    "Components/Comment/index": {
+      "js": [
+        "/packs/js/Components/Comment/index-814a89986cc8b072efb9.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Comment/index-814a89986cc8b072efb9.js.map"
+      ]
+    },
+    "Components/Comment/style": {
+      "js": [
+        "/packs/js/Components/Comment/style-fbe19a11ab5860eba5ac.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Comment/style-fbe19a11ab5860eba5ac.js.map"
+      ]
+    },
+    "Components/CommentInput/index": {
+      "js": [
+        "/packs/js/Components/CommentInput/index-bb036b5066724f308a83.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/CommentInput/index-bb036b5066724f308a83.js.map"
+      ]
+    },
+    "Components/CommentInput/style": {
+      "js": [
+        "/packs/js/Components/CommentInput/style-4e63f221a04aea75d9cc.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/CommentInput/style-4e63f221a04aea75d9cc.js.map"
+      ]
+    },
+    "Components/Comments/index": {
+      "js": [
+        "/packs/js/Components/Comments/index-b957f3e7e792251ccd71.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Comments/index-b957f3e7e792251ccd71.js.map"
+      ]
+    },
+    "Components/Comments/style": {
+      "js": [
+        "/packs/js/Components/Comments/style-c6d5c168a4dae4cab16c.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Comments/style-c6d5c168a4dae4cab16c.js.map"
+      ]
+    },
+    "Components/Video/AvatarTimeline": {
+      "js": [
+        "/packs/js/Components/Video/AvatarTimeline-afcb6dc7919cfb3eb5bf.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Video/AvatarTimeline-afcb6dc7919cfb3eb5bf.js.map"
+      ]
+    },
+    "Components/Video/index": {
+      "js": [
+        "/packs/js/Components/Video/index-532888de02de573f6010.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Video/index-532888de02de573f6010.js.map"
+      ]
+    },
+    "Components/Video/style": {
+      "js": [
+        "/packs/js/Components/Video/style-ebb23372d1a7368e2f68.js"
+      ],
+      "js.map": [
+        "/packs/js/Components/Video/style-ebb23372d1a7368e2f68.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-b48a2d1fa7acd6681fbd.js"
+      ],
+      "js.map": [
+        "/packs/js/index-b48a2d1fa7acd6681fbd.js.map"
+      ]
+    },
+    "shared/index": {
+      "js": [
+        "/packs/js/shared/index-5ee62f15550afb9bee6a.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/index-5ee62f15550afb9bee6a.js.map"
+      ]
+    },
+    "shared/styles/index": {
+      "js": [
+        "/packs/js/shared/styles/index-eb96782c32a56b7ff3a9.js"
+      ],
+      "js.map": [
+        "/packs/js/shared/styles/index-eb96782c32a56b7ff3a9.js.map"
+      ]
+    },
+    "test": {
+      "js": [
+        "/packs/js/test-235d2156245693e0e8ab.js"
+      ],
+      "js.map": [
+        "/packs/js/test-235d2156245693e0e8ab.js.map"
+      ]
+    }
+  },
+  "index.js": "/packs/js/index-b48a2d1fa7acd6681fbd.js",
+  "index.js.map": "/packs/js/index-b48a2d1fa7acd6681fbd.js.map",
+  "shared/index.js": "/packs/js/shared/index-5ee62f15550afb9bee6a.js",
+  "shared/index.js.map": "/packs/js/shared/index-5ee62f15550afb9bee6a.js.map",
+  "shared/styles/index.js": "/packs/js/shared/styles/index-eb96782c32a56b7ff3a9.js",
+  "shared/styles/index.js.map": "/packs/js/shared/styles/index-eb96782c32a56b7ff3a9.js.map",
+  "test.js": "/packs/js/test-235d2156245693e0e8ab.js",
+  "test.js.map": "/packs/js/test-235d2156245693e0e8ab.js.map"
+}

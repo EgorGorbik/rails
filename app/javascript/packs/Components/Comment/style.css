@@ -1,0 +1,56 @@
+.comment {
+    border-bottom: 1px solid black;
+    min-height: 100px;
+    cursor: pointer;
+}
+
+.comment:hover {
+    background-color: #908F89;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.comment_header {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.commentator_name {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.time_stamp {
+    color: #61dafb;
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.comment_text {
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+    font-weight: 600;
+}
+
+.icon_brush {
+    color: #61dafb;
+    padding-left: 5px;
+}
+
+.icon_trash {
+    position: absolute;
+    right: 10px;
+    color: white;
+}

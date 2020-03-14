@@ -1,0 +1,12 @@
+.comments {
+    width: 20%;
+    min-width: 300px;
+    background-color: #575555;
+    height: 100vh;
+}
+
+@media screen and (max-width: 1020px) {
+    .comments {
+        width: 100%;
+    }
+}
